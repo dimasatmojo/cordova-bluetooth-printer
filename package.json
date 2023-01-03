@@ -1,0 +1,29 @@
+{
+  "name": "@lynzz/cordova-plugin-bluetooth-printer",
+  "version": "1.0.9",
+  "description": "cordova bluetooth printer plugin",
+  "cordova": {
+    "id": "cordova-plugin-bluetooth-printer",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "scripts": {
+    "pub": "npm publish --registry=http://registry.npmjs.org --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynzz/BluetoothPrinter.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-ios"
+  ],
+  "author": "lynzz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lynzz/BluetoothPrinter/issues"
+  },
+  "homepage": "https://github.com/lynzz/BluetoothPrinter#readme"
+}
